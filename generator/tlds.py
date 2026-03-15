@@ -1,0 +1,21 @@
+COMMON_TLDS = [
+    "com",
+    "net",
+    "org",
+    "in",
+    "co",
+    "io",
+    "co.in",
+    "info",
+    "biz",
+    "online",
+    "site",
+    "web",
+    "app",
+    "store",
+    "shop",
+    "live",
+    "xyz",
+    "tech",
+    "club"
+]
