@@ -25,7 +25,7 @@ Sentinel does the same core job for free. You give it a domain, it generates eve
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/sentinel.git
+git clone https://github.com/Spinicle/sentinel.git
 cd sentinel
 
 # Create and activate a virtual environment
